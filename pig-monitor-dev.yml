@@ -3,10 +3,10 @@ server:
 
 spring:
   rabbitmq:
-    host: 123.206.94.20
+    host: 114.55.224.28
     port: 5672
-    username: lengleng
-    password: lengleng
+    username: hxb
+    password: hxb
   boot:
     admin:
       turbine:
