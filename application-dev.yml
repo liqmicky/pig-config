@@ -5,9 +5,9 @@ jasypt:
 
 spring:
   redis:
-    host: 127.0.0.1
+    host: 114.55.86.45
     port: 6379
-    password: ENC(pr0Ohcnc2rcqFjM/8OCjPA==)
+    password: java2000_wl
   http:
     multipart:
       max-file-size: 1000MB
