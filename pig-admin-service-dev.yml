@@ -13,10 +13,10 @@ spring:
     password: Yuanhan1234
     url: jdbc:mysql://rm-bp14g20lqha9s9fif.mysql.rds.aliyuncs.com:3306/guns_db?autoReconnect=true&characterEncoding=utf-8
   rabbitmq:
-    host: 123.206.94.20
+    host: 114.55.224.28
     port: 5672
-    username: ENC(7/5Zi1aQY/I7GACnfdVbpR1JtTrkM2Sa)
-    password: ENC(7/5Zi1aQY/I7GACnfdVbpR1JtTrkM2Sa)
+    username: hxb
+    password: hxb
       
 #mybaits-plus配置，修改主键类型，mapper.xml、type 别名等
 mybatis-plus:
