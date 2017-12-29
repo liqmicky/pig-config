@@ -38,10 +38,10 @@ mybatis-plus:
     cache-enabled: true
 
 qiniu:
-  accessKey: hM2cBDEM0FTYzpXbigRW90kV12NhhzhFM3jCzurJ
-  secretKey: ENC(HM/K0KmtFoZSBhGDEA0Ez71ePTncZlQ954DfLNMZuOftKZq+2WR+dCXH9QEsf768q9wwd92RXLE=)
-  bucket: pigcloud
-  host: http://p0hpm86wj.bkt.clouddn.com/
+  accessKey: cD6GgNSoIAtftkPDHPplHj9ckpzPjOk-D0WdVQrc
+  secretKey: 3BQzagZWC0kRlvkNNTne7Ed_pD7qaKqRLuDqh6U7
+  bucket: yuanhan
+  host: http://ofv9mzx0m.bkt.clouddn.com/
     
 logging:
   config: classpath:logback.xml
